@@ -1,17 +1,17 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl:
 
 # Site settings
-title: Awesome Title
+title: The FLOW Project
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A project for a new, sustainable fertilizer source."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Charles Chase
+  pic: charles
+  position: Director / CTO UnLAB
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Ned Kahn
+  pic: ned
+  position: Designer / Artist / Fabricator
   social:
     - title: twitter
       url: #
@@ -31,9 +31,43 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Professor Sergey Macheret
+  pic: sergey
+  position: Purdue Plasma Physics
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+people2:
+- name: Kate McKinnon
+  pic: kate
+  position: UnLAB cofounder / Solver 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: John Edson
+  pic: john
+  position: PA Consulting Head of US Design & Engineering
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Professor Tony Vyn
+  pic: tony
+  position: Henry A. Wallace Chair in Crop Sciences
   social:
     - title: twitter
       url: #
@@ -57,8 +91,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 5407 Reynolds St.
+  - line: Savannah, GA 31405
 
 # Build settings
 markdown: kramdown

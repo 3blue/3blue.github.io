@@ -24,7 +24,7 @@ var cbpAnimatedHeader = (function() {
 		}, false );
 	}
 
-	function scrollPage() {
+	function scrollPage() {/*
 		var sy = scrollY();
 		if ( sy >= changeHeaderOn ) {
 			classie.add( header, 'navbar-shrink' );
@@ -32,7 +32,7 @@ var cbpAnimatedHeader = (function() {
 		else {
 			classie.remove( header, 'navbar-shrink' );
 		}
-		didScroll = false;
+		didScroll = false;*/
 	}
 
 	function scrollY() {
