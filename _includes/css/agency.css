@@ -320,7 +320,7 @@ header .intro-text .intro-heading {
         margin-bottom: 100px;
         font-family: {{ site.data.template.font.primary }};
         color: #eeeeee;
-        background-color: rgba(51, 51, 51, .4);
+        background-color: rgba(50, 75, 50, .2);
         font-size: 50px;
         font-weight: 700;
         line-height: 75px;
